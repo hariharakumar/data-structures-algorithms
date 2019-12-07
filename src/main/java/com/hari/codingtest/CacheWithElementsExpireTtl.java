@@ -12,7 +12,6 @@ public class CacheWithElementsExpireTtl {
     }
 
     public void addKeyValueToCache(Object key, Object value, int ttl) {
-
     }
 
     public void removeKeyValueFromCache(Object key) {
